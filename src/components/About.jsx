@@ -9,10 +9,12 @@ const About = () => {
         <article>
           <SectionTitle text="code and coffee" />
           <p className="text-slate-600 mt-8 leading-loose">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore
-            numquam illo eius distinctio consequatur perferendis non nihil aut
-            dolorum explicabo aperiam, sint totam perspiciatis eligendi! Neque
-            consequatur excepturi ipsam magnam.
+            Dietro ogni riga di codice c'è una storia. La mia inizia con una
+            tazza di caffè, una pagina bianca e la curiosità di capire come
+            funzionano le cose. Da autodidatta appassionato a sviluppatore
+            front-end, ho imparato che la differenza tra un sito qualunque e uno
+            che lascia il segno sta nell'attenzione ai dettagli — pixel,
+            animazioni, e un po' di magia CSS.
           </p>
         </article>
       </div>
